@@ -4,3 +4,19 @@ It is based on the Andrew NG's coursera course Intro to Machine Learning.
 
 Dependencies:-
 Numpy
+
+Execution:-
+To run the example, simply run Gradient-Descent.py file using Python.
+python Gradient-Descent.py
+
+The output will look like this:-
+
+Initial value of weights
+[ 0.4359949   0.02592623]
+Final value of weights
+[ 0.99999967  1.00000016]
+Addition of 34 and 6 is equal to
+[ 39.99998982]
+
+
+
