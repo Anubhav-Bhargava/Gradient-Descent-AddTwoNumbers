@@ -4,7 +4,7 @@ x=np.array([[3,6],[4,7],[2,6],[4,8]])
 y=[9,11,8,12]
 
 m,n=np.shape(x)
-theta=np.random.rand(2)
+theta=np.random.rand(n)
 print "Initial value of weights" 
 print theta
 xTrans = x.transpose()
