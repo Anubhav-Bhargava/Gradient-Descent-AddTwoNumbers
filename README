@@ -1,0 +1,6 @@
+This is the Python implementation of the Gradeint descent algorithm.
+Here it is used to to train the neural network to add two numbers.
+It is based on the Andrew NG's coursera course Intro to Machine Learning.
+
+Dependencies:-
+Numpy
